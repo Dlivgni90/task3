@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, rgb(126, 240, 248), rgb(141, 248, 141));
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    background-color: white;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 120px;
+    margin-left: 120px;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+input{
+    background-color: rgb(219, 231, 231);
+}
+
+select{
+    background-color: rgb(219, 231, 231);
+}
+
+textarea{
+    background-color: rgb(219, 231, 231);
+}
